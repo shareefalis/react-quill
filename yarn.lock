@@ -97,6 +97,11 @@
   "resolved" "https://registry.npmjs.org/@types/mocha/-/mocha-7.0.2.tgz"
   "version" "7.0.2"
 
+"@types/node@^18.7.13":
+  "integrity" "sha512-46yIhxSe5xEaJZXWdIBP7GU4HDTG8/eo0qd9atdiL+lFpA03y8KS+lkTN834TWJj5767GbWv4n/P6efyTFt1Dw=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.7.13.tgz"
+  "version" "18.7.13"
+
 "@types/prop-types@*":
   "integrity" "sha512-KfRL3PuHmqQLOG+2tGpRO26Ctg+Cq1E01D2DMriKEATHgWLfeNDmq9e29Q9WIky0dQ3NPkd1mzYH8Lm936Z9qw=="
   "resolved" "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.3.tgz"
